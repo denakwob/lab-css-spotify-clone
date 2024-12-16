@@ -24,7 +24,6 @@ p {
 /* navigation bar */
 
 .nav--items {
-    /* padding: 1.5em; */
     position: relative;
 }
 
@@ -88,7 +87,6 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* padding: 1.5em; */
     gap: 2em;
 }
 
@@ -137,7 +135,6 @@ p {
 .card--img {
     width: 8em;
     height: auto;
-    /* border: 1px solid red; */
 }
 
 .card.hd {
@@ -145,8 +142,6 @@ p {
 }
 
 .card.stream {
-    /* padding: 3em; */
-    /* width: 95%; */
     height: 339px;
 
 }
@@ -161,7 +156,6 @@ p {
     justify-content: space-between;
     padding: 3em 6em;
     gap: 20em;
-    /* align-items: center; */
     color: white;
     position: relative;
 }
@@ -176,24 +170,19 @@ p {
 
 .spotify--app {
     width: 463px;
-
+    
     margin-top: 3em;
-    /* border: 1px solid red; */
 }
 
 .spotify--app img {
     width: 100%;
-    /* border: 1px solid red; */
 }
 
 .info {
     display: flex;
     flex-direction: column;
-    /* justify-content: space-between; */
-    /* align-items: fle; */
     gap: 1em;
     width: 50%;
-    /* margin: 3em; */
 }
 
 .info h3 {
